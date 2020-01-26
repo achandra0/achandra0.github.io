@@ -7,7 +7,14 @@ header{
     text-align: center!important;
 }
 
-.recipe-image-box{
- height: 300px;
- width: 300px;   
+.photos{
+    margin: auto;
+    max-width: 500px;
+    height: auto;
+}
+
+.avatar{
+    margin: auto;
+    max-width: 250px;
+    height: auto;
 }
