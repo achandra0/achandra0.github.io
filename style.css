@@ -7,14 +7,20 @@ header{
     text-align: center!important;
 }
 
-.photos{
+.photo{
     margin: auto;
-    max-width: 500px;
+    width: 800px;
     height: auto;
+}
+.recipe-img{
+    margin: auto;
+    width: 400px;
+    height: auto;
+
 }
 
 .avatar{
     margin: auto;
-    max-width: 250px;
+    width: 250px;
     height: auto;
 }
