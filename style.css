@@ -1,8 +1,13 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: lightgray!important;
+    background-color: ghostwhite!important;
 }
 
 header{
     text-align: center!important;
+}
+
+.recipe-image-box{
+ height: 300px;
+ width: 300px;   
 }
